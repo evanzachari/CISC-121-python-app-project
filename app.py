@@ -143,5 +143,7 @@ with gr.Blocks(title="Linear Search Visualizer") as demo:
         outputs=output_markdown,
     )
 
-if __name__ == "__main__":
-    demo.launch()
+with gr.Blocks() as demo:
+    ...
+demo.launch()
+

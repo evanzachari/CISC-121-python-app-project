@@ -90,6 +90,7 @@ pip install -r requirements.txt
 python app.py
 
 ## Hugging Face Link
+https://huggingface.co/spaces/evanzachari/CISC121-linear-search-visualizer/tree/main  
 
 ## Author & Acknowledgment
 ``` Author: Evan Zachari
